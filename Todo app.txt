@@ -1,0 +1,20 @@
+Todo app
+
+Month
+	MonthName
+	List Week
+Week
+	Week number
+	List Tasks
+Task
+	Month
+	Week
+	Type
+	Name
+	Status
+
+Enum MonthName
+Enum Type
+
+User
+	Create Task
