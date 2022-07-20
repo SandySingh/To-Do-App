@@ -3,6 +3,7 @@ Todo app
 Month
 	MonthName
 	List Week
+	List Task Summary
 Week
 	Week number
 	List Tasks
